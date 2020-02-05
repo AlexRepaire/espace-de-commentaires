@@ -1,0 +1,31 @@
+body{
+    background-color: teal;
+    color: white;
+    text-align: center;
+}
+h1{
+    border-bottom: 2px solid white;
+}
+label{
+    font-size: 20px;
+}
+input{
+    border: 1px solid white;
+    font-size: 20px;
+}
+input[type="submit"]{
+    border-radius: 3px;
+    color: teal;
+}
+input[type="submit"]:hover{
+    transition-duration: 1s;
+    background-color: teal;
+    color: white;
+}
+
+#espace_commentaires{
+
+}
+tr{
+    border: 1px solid black;
+}
